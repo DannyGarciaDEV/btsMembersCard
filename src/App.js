@@ -13,7 +13,7 @@ function App() {
     <div>
       <section className='hero is-danger is-bold'>
         <div className='hero-body'>
-          <p className='title'>BTS Members Quotes</p>
+          <p className='title'>BTS Members Quotes.</p>
         </div>
       </section>
 
