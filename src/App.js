@@ -22,7 +22,7 @@ function App() {
           <div className='columns'>
             <div className='column is-4'>
               <BtsCard
-                name="jhope"
+                name="Jhope"
                 handle="@raperDancer"
                 image={jhImage}
                 description="Even when this rain stops, when clouds go away, I stand here, just the same."
