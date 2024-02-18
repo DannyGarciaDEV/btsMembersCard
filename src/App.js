@@ -40,7 +40,7 @@ function App() {
 
             <div className='column is-4'>
               <BtsCard
-                name="yoogi"
+                name="yoongi"
                 handle="@raper"
                 image={sugaImage}
                 description="Life is tough, and things don't always work out well, but we should be brave and go on with our lives."
